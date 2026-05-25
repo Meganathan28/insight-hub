@@ -1,4 +1,4 @@
-import { Search, Bell, Command } from "lucide-react";
+import { Search, Command } from "lucide-react";
 import { NotificationsDropdown } from "@/components/dashboard/notifications-dropdown";
 import { ProfileMenu } from "@/components/dashboard/profile-menu";
 
